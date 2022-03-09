@@ -7,7 +7,7 @@ package persona;
 
 /**
  *
- * @author Ganso
+ * @author Sebastian gil
  */
 public class empleado extends persona{
     private String cargo="empleado";

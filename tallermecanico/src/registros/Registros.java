@@ -12,7 +12,7 @@ import vehiculos.*;
 
 /**
  *
- * @author Ganso
+ * @author Sebastian gil
  */
 public class Registros {
     private ArrayList<String> danios;

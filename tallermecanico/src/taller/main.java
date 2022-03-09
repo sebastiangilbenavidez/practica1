@@ -11,7 +11,7 @@ import registros.Registros;
 
 /**
  *
- * @author Ganso
+ * @author Sebastian gil
  */
 public class main {
 
